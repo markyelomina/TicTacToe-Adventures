@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Adventures
 
-**Tic-Tac-Toe Adventures** is a dynamic C# Windows Forms application that brings an upgraded experience to the classic Tic-Tac-Toe game. Designed with interactive gameplay, player profile customization, game timers, audio feedback, and persistent score tracking, this desktop application offers an engaging experience for single-player and multiplayer matches.
+**Tic-Tac-Toe Adventures** is a game that brings an upgraded experience to the classic Tic-Tac-Toe. Designed with interactive gameplay, game timers, audio feedback, and persistent score tracking, this game application offers an engaging experience for multiplayer matches.
 
 ---
 
