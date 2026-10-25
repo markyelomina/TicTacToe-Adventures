@@ -1,17 +1,14 @@
-# TicTacToeAdventures
+# Tic-Tac-Toe Adventures
 
-**TicTacToeAdventures** is a dynamic C# Windows Forms application that brings an upgraded experience to the classic Tic-Tac-Toe game. Designed with interactive gameplay, player profile customization, game timers, audio feedback, and persistent score tracking, this desktop application offers an engaging experience for single-player and multiplayer matches.
+**Tic-Tac-Toe Adventures** is a dynamic C# Windows Forms application that brings an upgraded experience to the classic Tic-Tac-Toe game. Designed with interactive gameplay, player profile customization, game timers, audio feedback, and persistent score tracking, this desktop application offers an engaging experience for single-player and multiplayer matches.
 
 ---
 
 ## 🚀 Features
 
-- **Multiple Game Modes:**
-  - **Single Player:** Test your skills against an integrated AI opponent.
-  - **Two Player:** Play locally with a friend on the same machine.
-- **Player Customization:** Personalize player names and select custom icons/avatars before launching into matches.
+- **Two Player:** Play locally with a friend on the same machine.
 - **Score & State Management:**
-  - Real-time score tracking for Player 1, Player 2 / AI, and Draws.
+  - Real-time score tracking for Player 1, Player 2, and Draws.
   - Dedicated **ScoreManager** to manage persistent stats and easy score resets.
 - **Interactive UI & Timers:**
   - Turn-based timer and overall match timer using built-in Windows Forms timers.
@@ -54,7 +51,6 @@
 
 ## 🎮 How to Play
 
-1. Choose your game mode (Single Player vs AI or 2 Player local).
-2. Enter player names and choose avatars if prompted.
-3. Take turns clicking grid cells to place your symbol ($X$ or $O$).
-4. Align 3 matching symbols horizontally, vertically, or diagonally to win the round!
+1. Choose your game difficulty (Easy, Intermediate, Hard).
+2. Take turns clicking grid cells to place your symbol ($X$ or $O$).
+3. Align matching symbols horizontally, vertically, or diagonally to win the round!
