@@ -1,0 +1,66 @@
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form2.resources
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.easyForm.resources
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.intermediateForm.resources
+C:\Users\clyde\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.hardForm.resources
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form2.resources
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.easyForm.resources
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.intermediateForm.resources
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.hardForm.resources
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.exe
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.exe
+D:\ITLAB TIC TAC TOE\Vital\TTTA_GUI_11-22-2024_3;53\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form2.resources
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.easyForm.resources
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.intermediateForm.resources
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.hardForm.resources
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Aqua\Downloads\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form2.resources
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.easyForm.resources
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.intermediateForm.resources
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.hardForm.resources
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Aqua\Desktop\TicTacToeAdventures\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\code\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\code\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.exe
+D:\code\TicTacToeAdventures\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.exe.config
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Form2.resources
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.easyForm.resources
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.intermediateForm.resources
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.hardForm.resources
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.exe
+D:\code\TicTacToeAdventures\TicTacToe\obj\Debug\TicTacToe.pdb
